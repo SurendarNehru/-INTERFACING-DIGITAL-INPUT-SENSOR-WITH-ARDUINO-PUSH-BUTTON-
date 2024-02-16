@@ -90,21 +90,6 @@ void loop()
     delay(500);
   }
 } 
- 
-
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
 
 ## OUTPUT OF SIMULATION :
 
